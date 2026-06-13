@@ -1,4 +1,4 @@
-# SocialMediaManagement
+# DSA Project
 ## Social Media Feed Management System
 A C++ based social media management system developed as a **Data Structures & Algorithms Lab final project**.  
 The project demonstrates practical usage of **Binary Search Trees, Linked Lists, Heaps, and Stacks** to build a modular system.
